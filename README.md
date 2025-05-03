@@ -82,7 +82,7 @@
   <ul>
     <li><strong>Coleta:</strong> Coletamos apenas dados mínimos como número de telefone (para pagamentos e identificação).</li>
     <li><strong>Armazenamento:</strong> As informações são protegidas e usadas apenas internamente, sem repasse a terceiros.</li>
-    <li><strong>Anúncios:</strong> Os dados de navegação e interação com anúncios podem ser usados por parceiros como o Google AdMob, de forma anônima, para melhorar a experiência e relevância.</li>
+    <li><strong>Anúncios:</strong> Os dados de navegação e interação com anúncios podem ser usados por parceiros, de forma anônima, para melhorar a experiência e relevância.</li>
   </ul>
 
   <p>Você pode a qualquer momento entrar em contato para esclarecer dúvidas ou solicitar remoção de dados.</p>
