@@ -1,6 +1,5 @@
 # Sobre o App - Termos e Política
 
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   
