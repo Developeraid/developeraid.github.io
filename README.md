@@ -55,7 +55,7 @@
 
   <div style="text-align:center;">
     <a href="https://companyaddc.wordpress.com/termos-de-servico-e-politicas-de-privacidade/" class="botao">Termos de Serviço e Políticas de Privacidade</a>
-    <p>Clique no botão acima para saber mais!</p>
+    <p>Clique no link acima para saber mais!</p>
   </div>
 
   <hr/>
